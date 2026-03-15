@@ -26,5 +26,5 @@ else if(mark=0&& marks<=59){
 
 else
 {
-    console.log("Invalid score")
+    console.log("Invalid score");
 }
